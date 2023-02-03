@@ -12,3 +12,6 @@ scoreboard players set @s _output 0
 scoreboard players set @s _range 0
 scoreboard players set @s _use 0
 scoreboard players set @s _currentuse 0
+
+tag @s remove build
+tellraw @p {"text":"Shop placed","color":"gray"}

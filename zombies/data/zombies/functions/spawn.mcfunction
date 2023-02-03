@@ -1,0 +1,2 @@
+give @s pig_spawn_egg{display:{Name:'{"text":"Create Shop","color":"light_purple","italic":false}'},EntityTag:{id:"minecraft:area_effect_cloud",CustomNameVisible:0b,Radius:0f,Duration:999999999,Tags:["zombies","shop","new"]}} 1
+give @s cow_spawn_egg{display:{Name:'{"text":"Create Mystery Box","color":"light_purple","italic":false}'},EntityTag:{id:"minecraft:area_effect_cloud",CustomNameVisible:0b,Radius:0f,Duration:999999999,Tags:["zombies","mbox","new"]}} 1
